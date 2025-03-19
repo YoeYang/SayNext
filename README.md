@@ -59,12 +59,12 @@ pip install -r requirements.txt
 
 ## 🚀 Quick Start
 
-### (1) Examples inference
+### (1) Examples test
 
 To test model with examples, run command:
 
 ```bash
-python test-fintune-8b-lora-iMiGUE-oneturn-xframes.py --gpu 0 --max_segments 16 --indir /scratch/project_2011211/yyy/CV2025/dataset/sub_dep_dataset/test_dataset.csv --outdir /scratch/project_2011211/yyy/CV2025/baseline_finetune/intern8b_sub_dep_4f_10e.csv
+python test-fintune-8b-lora-iMiGUE-oneturn-xframes.py --gpu 0 --max_segments 16 --indir ./test_dataset.csv --outdir ./test_results.csv
 ```
 
 ### (2) Customized test data
@@ -96,4 +96,4 @@ If you find this work useful for your research, please feel free to leave a star
 ```
 
 ## 🤝 Acknowledgement
-This work is supported by . Thanks to [InternVL](https://github.com/OpenGVLab/InternVL), [Exp-BLIP](https://github.com/Yujianyuan/Exp-BLIP). Our codes are based on these works.
+This work is supported by **The University of Oulu & The Research Council of Finland, PROFI7 352788**. Thanks to [InternVL](https://github.com/OpenGVLab/InternVL), [Exp-BLIP](https://github.com/Yujianyuan/Exp-BLIP). Our codes are based on these works.
