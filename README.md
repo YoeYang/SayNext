@@ -17,7 +17,7 @@
 The dataset application link will open later.
 
 
-## :hugs: Captions and Models Download
+## :hugs: Models Download
 
 
 ### <div id="SayNext-Chat-models">(1) SayNext-Chat models</div>
