@@ -1,6 +1,6 @@
 # Official PyTorch Implementation of SayNext-Chat.
 
-![SayNext-Chat Framework](figs/paradigm.pdf)
+![SayNext-Chat Framework](figs/paradigm.jpg)
 
 
 > [**SayNext: A Novel Benchmark for Multimodal Emotion Understanding via Next-Utterance Prediction**]<br>
